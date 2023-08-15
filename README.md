@@ -35,6 +35,4 @@ function MyComponent() {
 
 ## License
 
-Licensed under the MIT License, Copyright © 2023-present.
-
-See LICENSE for more information.
+Licensed under the [MIT License](https://github.com/gaganbiswas/struct-icons/blob/main/LICENSE), Copyright © 2023-present.
