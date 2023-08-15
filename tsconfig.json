@@ -1,0 +1,23 @@
+{
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "module": "esnext",
+    "sourceMap": true,
+    "target": "es5",
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "declarationDir": "dist/types",
+    "emitDeclarationOnly": true,
+    "baseUrl": ".",
+    "jsx": "react",
+    "paths": {
+      "*": ["node_modules/*", "src/types/*"]
+    }
+  }
+}
