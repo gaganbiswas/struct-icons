@@ -1,8 +1,8 @@
-# Recon Icons
+# Struct Icons
 
 A set of 16x16 pixel-perfect icons designed by the designers & developers for the designers & developers.
 
-Visit [recon-icons.vercel.app](https://recon-icons.vercel.app) to browse the icons.
+Visit [struct-icons.vercel.app](https://struct-icons.vercel.app) to browse the icons.
 
 ## Documentation
 
@@ -11,13 +11,13 @@ All icons are available as individual React components.
 Install Recon Icons from npm:
 
 ```shell
-npm install @recon-ui/icons
+npm install @struct-ui/icons
 ```
 
 Import the icons into your React project:
 
 ```jsx
-import { ArrowRight, Sun } from '@recon-ui/icons';
+import { ArrowRight, Sun } from "@struct-ui/icons";
 
 function MyComponent() {
   return (
@@ -31,7 +31,7 @@ function MyComponent() {
 
 ## Authors
 
-- Gagan Biswas ([@gaganbiswas](https://github.com/gaganbiswas)) 
+- Gagan Biswas ([@gaganbiswas](https://github.com/gaganbiswas))
 
 ## License
 
