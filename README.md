@@ -2,7 +2,7 @@
 
 A set of 16x16 pixel-perfect icons designed by the designers & developers for the designers & developers.
 
-Visit recon-icons.vercel.app to browse the icons.
+Visit [recon-icons.vercel.app](https://recon-icons.vercel.app) to browse the icons.
 
 ## Documentation
 
