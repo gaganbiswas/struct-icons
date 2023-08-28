@@ -4,7 +4,7 @@ interface SVGRProps {
   title?: string;
   titleId?: string;
 }
-const SvgLink = ({
+const SvgShoppingBag = ({
   title,
   titleId,
   ...props
@@ -24,8 +24,8 @@ const SvgLink = ({
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth={2}
-      d="M6 12H5a4 4 0 0 1 0-8h1m4 8h1a4 4 0 0 0 0-8h-1M5 8h6"
+      d="m2 4 2.5-3h7L14 4M2 4v9.6A1.4 1.4 0 0 0 3.4 15h9.2a1.4 1.4 0 0 0 1.4-1.4V4M2 4h12m-3.5 3a2.5 2.5 0 0 1-5 0"
     />
   </svg>
 );
-export default SvgLink;
+export default SvgShoppingBag;
